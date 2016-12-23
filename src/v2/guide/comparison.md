@@ -235,7 +235,7 @@ Mobx 在 React 社区很流行，实际上在 Vue 也采用了几乎相同的反
 
 ## Angular 1
 
-Vue 的一些语法和 Angular 的很相似（例如 `v-if` vs `ng-if`）。因为 Angular 是 Vue 早期开发的灵感来源。然而，Augular 中存在的许多问题，在 Vue 中已经得到解决。
+Vue 的一些语法和 Angular 的很相似（例如 `v-if` vs `ng-if`）。因为 Angular 是 Vue 早期开发的灵感来源。然而，Angular 中存在的许多问题，在 Vue 中已经得到解决。
 
 ### 复杂性
 
